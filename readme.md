@@ -1,5 +1,5 @@
 # Receta de Lemon Pie
 ## Lenguajes utilizados
-- html
+- HTML
 
 https://damianmicheli.github.io/lemon-pie/
